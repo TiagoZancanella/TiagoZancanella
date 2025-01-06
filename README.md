@@ -1,4 +1,4 @@
- Olá! 👋  
+ Olá!   
 
 🔧 **Operador de máquinas CNC** na Altona S.A., com paixão por tecnologia e inovação.  
 📚 Atualmente CURSANDO **Python Full Stack** com ênfase em **Inteligência Artificial** no programa Super DEV pela Pro Way Blumenau.  
